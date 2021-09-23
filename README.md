@@ -15,9 +15,18 @@ Then, continue based on your operating system below.
 6. Choose where you want to save the files to.
 7. Finally, navigate to that folder and select the `maze_maker.exe` file.
 
+## Confirmed OS's this doesn't work on:
+
+* MacOS
+
 NOTE: If your operating system isn't listed above, please see the Feedback section below.
 
 ## Feedback
 
 If you have feedback, please ping me at @monochromeninja#0447 on Discord.
 If you have recommendations for this project or this readme, please let me know!
+
+## Other Notes
+
+* The `log.json` file generated in the same folder as the .exe file can be used to recreate previous mazes. Check the settings enclosed, then recreate them.
+  * (A Recent Mazes option is coming soon.)
