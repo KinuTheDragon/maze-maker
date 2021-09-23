@@ -8,7 +8,9 @@ Welcome to the Python Maze Maker project! To install, follow these steps:
 
 Then, continue based on your operating system below.
 
-## For Windows
+## Confirmed OS's this works on:
+
+### Windows
 
 4. As it's downloading, right-click the download and select "Show in folder".
 5. Once it finishes downloading, right-click the ZIP and select "Extract All".
@@ -19,7 +21,7 @@ Then, continue based on your operating system below.
 
 * MacOS
 
-NOTE: If your operating system isn't listed above, please see the Feedback section below.
+NOTE: If your operating system isn't listed in either section above, please see the Feedback section below.
 
 ## Feedback
 
